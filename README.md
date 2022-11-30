@@ -1,1 +1,6 @@
-# seliga_j_2t
+NOME 
+MARIA EDUARDA DA SILVA ZOCANTE 
+NUMERO* 
+16 
+TURMA :
+1 J
